@@ -482,8 +482,7 @@ body{
 
 /* right part of the form */
 .contents h1{
-  padding-top: 40px;
-  padding-left: 45px;
+  padding-left: 17px;
   color: #06bbcc;
 }
 .contents p{
@@ -503,13 +502,12 @@ position: relative;
 .checkbox{
   margin-top: 10px;
   margin-bottom: 10px;
-  margin-left: 45px;
+  margin-left: 15px;
   }
   
 .btn{
   margin-top: 10px;
   margin-bottom: 10px;
-  margin-left: 45px;
 }
   .input-box{
     padding-top: 10px;
