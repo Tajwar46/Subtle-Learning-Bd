@@ -524,7 +524,7 @@ position: relative;
   transition: 0.5s;
 }
 .button:hover{
-  background-color: salmon;
+  background-color: #21c2d2;
   color: black;
   transition: 0.5s;
 }
